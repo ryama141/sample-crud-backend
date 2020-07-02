@@ -1,5 +1,5 @@
 {
-  "name": "sampleCRUD",
+  "name": "crud",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Steven Alfred Santillan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
